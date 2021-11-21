@@ -1,0 +1,6 @@
+      //for (let j in data['games'][team]) {
+        //let games = data['games'][team][j];
+        //rankings.push(<div class="team-games"><b>{games["game_rating"]}</b> : {games["p_for"]}-{games["p_against"]} vs {games["opp"]}</div>);
+        //console.log("Games for " + team + ": "  + data['games'][team][j]["p_for"]);
+      //}
+
