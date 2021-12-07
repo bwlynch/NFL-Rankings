@@ -22,7 +22,7 @@ class Main extends React.Component {
       projections.push(<div><div>{proj_game['winner']} over {proj_game['loser']} by {proj_game['expected_diff']}<br/></div><br/></div>);
       console.log(proj_game);
     }
-  return (<div><br/><br/><div class="rankings"><br/><h1>NFL Rankings</h1><h3>Week 11</h3><table class="rankings-table">{rankings}</table><br/>{methodology}<br/></div><br/><br/><div class="projections">{projections}<br/></div><br/><br/></div>);
+  return (<div><br/><br/><div class="rankings"><br/><h1>NFL Rankings</h1><h3>Week 12</h3><table class="rankings-table">{rankings}</table><br/>{methodology}<br/></div><br/><br/><div class="projections">{projections}<br/></div><br/><br/></div>);
   }
 }
 
